@@ -1,0 +1,25 @@
+{
+  "name": "youtube-robot",
+  "version": "1.0.0",
+  "description": "Automatizador para criação de videos no youtube. Fonte: Canal do Felipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarodrigues/youtube-robot.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Claudio Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarodrigues/youtube-robot/issues"
+  },
+  "homepage": "https://github.com/clarodrigues/youtube-robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
