@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/clarodrigues/youtube-robot/issues"
   },
-  "homepage": "https://github.com/clarodrigues/youtube-robot#readme"
+  "homepage": "https://github.com/clarodrigues/youtube-robot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
